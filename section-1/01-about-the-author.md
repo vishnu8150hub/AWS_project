@@ -14,6 +14,6 @@ Apart from working with Red Hat as a GitOps product lead, I also hold below posi
 If you want to learn complete devops and cloud for Free, you can checkout my YouTube channel.
 ```
 https://www.youtube.com/abhishekveeramalla
-```
+```'
 
 
